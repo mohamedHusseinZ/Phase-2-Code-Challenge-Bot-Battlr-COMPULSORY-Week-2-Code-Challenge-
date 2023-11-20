@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/git@github.com:mohamedHusseinZ/Phase-2-Code-Challenge-Bot-Battlr-COMPULSORY-Week-2-Code-Challenge-.git/static/css/main.972dbc40.css",
+    "main.js": "/git@github.com:mohamedHusseinZ/Phase-2-Code-Challenge-Bot-Battlr-COMPULSORY-Week-2-Code-Challenge-.git/static/js/main.c9fdb988.js",
+    "static/js/787.87d95e10.chunk.js": "/git@github.com:mohamedHusseinZ/Phase-2-Code-Challenge-Bot-Battlr-COMPULSORY-Week-2-Code-Challenge-.git/static/js/787.87d95e10.chunk.js",
+    "index.html": "/git@github.com:mohamedHusseinZ/Phase-2-Code-Challenge-Bot-Battlr-COMPULSORY-Week-2-Code-Challenge-.git/index.html",
+    "main.972dbc40.css.map": "/git@github.com:mohamedHusseinZ/Phase-2-Code-Challenge-Bot-Battlr-COMPULSORY-Week-2-Code-Challenge-.git/static/css/main.972dbc40.css.map",
+    "main.c9fdb988.js.map": "/git@github.com:mohamedHusseinZ/Phase-2-Code-Challenge-Bot-Battlr-COMPULSORY-Week-2-Code-Challenge-.git/static/js/main.c9fdb988.js.map",
+    "787.87d95e10.chunk.js.map": "/git@github.com:mohamedHusseinZ/Phase-2-Code-Challenge-Bot-Battlr-COMPULSORY-Week-2-Code-Challenge-.git/static/js/787.87d95e10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.972dbc40.css",
+    "static/js/main.c9fdb988.js"
+  ]
+}
